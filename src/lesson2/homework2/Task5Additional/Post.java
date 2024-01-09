@@ -1,6 +1,5 @@
 package lesson2.homework2.Task5Additional;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
